@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img height="500" src="https://github.com/namiein/namiein/blob/main/assets/images/undraw_Proud_coder_re_exuy.png" alt="coding" /> <br/>
+  <img height="500" src="https://user-images.githubusercontent.com/52883505/167283470-5afda2d6-0bd3-44ed-b9ce-4d1a677c1b4c.png" alt="coding" />
 </div>
 
 ## 👋 About ME
