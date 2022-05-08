@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Gayoung Kim
-- 👀 I’m interested in React.js, JavaScript, Front-End, Back-End :)
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : namiein@naver.com
-- Nomad Coders Profile : https://nomadcoders.co/users/namiein
+<div id="header" align="center">
+  <img height="200" src="https://github.com/namiein/namiein/blob/main/assets/images/undraw_Proud_coder_re_exuy.png" alt="coding" />
+</div>
 
-<!---
-namiein/namiein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)   
+</div>
