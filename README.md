@@ -13,7 +13,7 @@
 
 ## ❤️‍🔥 I am currently working on ...
 
--   [ ] Next Blog
+-   [ ] [Weekly Clone Coding Challenge](https://github.com/namiein/weekly-clone-coding)
 
 ## 📚 I am currently reading ...
 -   [ ] The Pragmatic Programmer (실용주의 프로그래머)
