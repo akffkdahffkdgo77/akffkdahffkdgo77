@@ -20,7 +20,7 @@
 -   [ ] Clean Code (클린 코드)
 
 ## ✍️ My recent post
--   Semantic HTML
+-   
 
 ## 💼 Technical Skills
 
