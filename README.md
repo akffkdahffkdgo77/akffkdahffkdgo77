@@ -1,4 +1,3 @@
- 
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamiein%2Fhit-counter&count_bg=%23FF79C6&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
   <h3> 👋 About ME </h3>
@@ -68,6 +67,6 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namiein&theme=dracula)](https://git.io/streak-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namiein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namiein&layout=compact&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=namiein)](https://solved.ac/namiein)
