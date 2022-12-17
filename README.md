@@ -12,12 +12,12 @@
 </div>
 
 <div align="center">
-    <h3> ❤️‍🔥 I am currently working on ... </h3>
+    <h3>❤️‍🔥 I am currently working on ...</h3>
     <a href="https://github.com/namiein/weekly-clone-coding">Weekly Clone Coding</a>
 </div>
 
 <div id="badges" align="center">
-  <h3>💼 Technical Skills </h3>
+  <h3>💼 Technical Skills</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
   <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="Code Sandbox">
   
-  <h3>✅ I haved used</h3>
+  <h3>✅ I have used</h3>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
