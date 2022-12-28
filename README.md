@@ -5,7 +5,7 @@
 👋 Hi, I’m Gayoung Kim   
 👀 A Front End Developer working in Seoul, Korea   
 🌱 I work with ReactJS + TypeScript   
-💞️ I'm currently learning Next.js and Nest.js!   
+💞️ I'm currently interested in Web Accessibility and Three.JS!   
 📫 How to reach me : namiein@naver.com   
 📓 My Blog : 😎 coming soon!   
 
