@@ -13,8 +13,8 @@
 
 <div align="center">
     <h3>❤️‍🔥 I am currently working on ...</h3>
-    <a href="https://github.com/namiein/weekly-clone-coding">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=namiein&repo=weekly-clone-coding&theme=dracula" alt="Readme Card" />
+    <a href="https://github.com/namiein/master-of-front-end">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=namiein&repo=master-of-front-end&theme=dracula" alt="Readme Card" />
     </a>
 </div>
 
