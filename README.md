@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamiein%2Fhit-counter&count_bg=%23FF79C6&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+  
   <h3> 👋 About ME </h3>
 
 👋 Hi, I’m Gayoung Kim   
@@ -50,15 +51,29 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> 
 </div>
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namiein&show_icons=true&theme=dracula) 
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namiein&theme=dracula)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namiein&layout=compact&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=namiein)](https://solved.ac/namiein)
+<hr />
+<div align="center">
+  <h3>✨ My GitHub STATS</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=namiein&theme=onedark" alt="trophy" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=namiein&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namiein&layout=compact&theme=dracula&card_width=445" alt="Top Langs" />
+  </a>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=namiein&theme=dracula" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://solved.ac/namiein">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namiein" alt="Solved.ac 프로필" />
+  </a>
+</div>
