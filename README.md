@@ -76,4 +76,7 @@
   <a href="https://solved.ac/namiein">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namiein" alt="Solved.ac 프로필" />
   </a>
+  <a href="https://solved.ac/namiein">
+    <img src="http://mazandi.herokuapp.com/api?handle=namiein&theme=dark"/>
+  </a>
 </div>
