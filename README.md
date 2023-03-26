@@ -67,5 +67,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namiein&theme=dracula" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=namiein&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namiein&show_icons=true&theme=dracula&card_width=270" alt="Anurag's GitHub stats" />
 </a>
